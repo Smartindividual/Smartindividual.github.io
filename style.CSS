@@ -26,5 +26,10 @@ body {
             background-color: rgb(217, 211, 208);
             
         }
+#School{
+border:10px solid darkcyan;
+width:400px;
+height:245px;
+}
 
 </style>
