@@ -33,3 +33,55 @@ height:245px;
 }
 
 </style>
+
+<style>
+h1{
+font-size:50px;
+margin:50px;  
+font-famliy: Verdana; 
+border:4px solid red;
+padding:15px;
+
+      color: rgb(45, 184, 194);
+            font-family: "Helvetica", sans-serif;
+ 
+}
+h2{
+font-size:30px; 
+position:absolute;
+left:450px;
+ color: rgb(45, 184, 194);
+            font-family: "oblique",Helvetica;
+             border:5px solid darkcyan;
+          }
+
+
+
+body {
+            background-color: rgb(217, 211, 208);
+    
+}
+h3{
+    font-size:30px; 
+position:absolute;
+left:450px;
+top:300px;
+ font-family: "oblique",Helvetica;
+  border:5px solid darkcyan;
+}
+#School{
+border:10px solid darkcyan;
+width:400px;
+height:373px;
+}        
+
+h4{
+    font-size:30px; 
+position:absolute;
+left:450px;
+top:400px;
+ font-family: "oblique",Helvetica;
+    border:5px solid darkcyan;
+    
+}     
+</style>
