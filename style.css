@@ -25,7 +25,7 @@ border:10px solid darkcyan;
 width:400px;
 height:245px;
 }
-h1-page2{
+#h1-page2{
 font-size:50px;
 margin:50px;  
 font-famliy: Verdana; 
@@ -36,7 +36,7 @@ padding:15px;
             font-family: "Helvetica", sans-serif;
  
 }
-h2-page2{
+#h2-page2{
 font-size:30px; 
 position:absolute;
 left:450px;
