@@ -52,19 +52,19 @@ top:400px;
  font-family: "oblique",Helvetica;
   border:5px solid darkcyan;
 }
+#More-Info{
+font-size:30px; 
+position:absolute;
+left:450px;
+top:550px;
+font-family: "oblique",Helvetica;
+border:5px solid darkcyan;   
+}    
 #boxing-gloves{
 border:10px solid darkcyan;
 width:400px;
 height:373px;
 }        
 
-#More-Info{
-    font-size:30px; 
-position:absolute;
-left:450px;
-top:550px;
- font-family: "oblique",Helvetica;
-    border:5px solid darkcyan;
-    
-}     
+   
 </style>
