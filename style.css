@@ -44,7 +44,7 @@ left:450px;
             font-family: "oblique",Helvetica;
              border:5px solid darkcyan;
 }
-h3{
+#Events{
     font-size:30px; 
 position:absolute;
 left:450px;
@@ -58,7 +58,7 @@ width:400px;
 height:373px;
 }        
 
-h4{
+#More-Info{
     font-size:30px; 
 position:absolute;
 left:450px;
