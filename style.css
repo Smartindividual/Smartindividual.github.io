@@ -65,6 +65,8 @@ border:10px solid darkcyan;
 width:400px;
 height:373px;
 }  
+
+  <style>
     h1{
 font-size:50px;
 margin:50px;  
@@ -78,6 +80,8 @@ font-family: "Helvetica", sans-serif;
 #Image-of-Scale{
     position:absolute;
     left:20px;
+
+</style>
 
 
 
