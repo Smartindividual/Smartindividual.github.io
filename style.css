@@ -77,13 +77,26 @@ color: rgb(45, 184, 194);
 font-family: "Helvetica", sans-serif;
 }
 
-#Image-of-Scale{
+h2{
+font-size:40px;
+border:4px solid red;
+color:rgb(45, 184, 194);
+}
+
+#Image-of-scale{
     position:absolute;
-    left:20px;
+    left:500px;
+    top:340px;
+    border:15px solid darkcyan;
+   padding:15px;
+}
 
+#Criminology{
+border:15px solid darkcyan;
+padding:15px;
+}
+    
 </style>
-
-
 
 
    
