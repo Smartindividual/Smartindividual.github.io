@@ -91,6 +91,8 @@ color:rgb(45, 184, 194);
 }
 
 #Criminology{
+position:absolute;
+left:px;
 border:15px solid darkcyan;
 padding:15px;
 } 
