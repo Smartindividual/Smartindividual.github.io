@@ -85,14 +85,14 @@ color:rgb(45, 184, 194);
 #Image-of-scale{
     position:absolute;
     left:700px;
-    top:500px;
+    top:700px;
     border:15px solid darkcyan;
    padding:15px;
 }
 
 #Criminology{
 position:absolute;
-left:px;
+left:0px;
 border:15px solid darkcyan;
 padding:15px;
 } 
