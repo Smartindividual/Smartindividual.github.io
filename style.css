@@ -10,10 +10,12 @@ color: rgb(45, 184, 194);
 font-family: "Helvetica", sans-serif;
 }
 h2{
+font-size:30px;
 color: rgb(45, 184, 194);
 font-family: "oblique",Helvetica;
 }
 p{
+fontsize:20px;
 color: rgb(45, 120, 190);
 font-family: "oblique",Helvetica;
 }
